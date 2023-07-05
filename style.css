@@ -3,6 +3,8 @@
 }
 body{
     background-color: black;
+    margin:0;
+    padding:0;
 }
 img{
     position: fixed;
@@ -17,16 +19,23 @@ img{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    font-size: 2vw;
 }
 .welc{
     color: #fff;
     text-align: center;
     position: fixed;
-    top: 30%;
+    top: 27%;
     left: 50%;
     transform: translate(-50%, -50%);
+    font-size: 3vw;
 }
 .discord{
     text-decoration: none;
     color: lightgreen;
+}
+div{
+    padding:1px;
+    color: #fff;
+    font-family: sans-serif;
 }
