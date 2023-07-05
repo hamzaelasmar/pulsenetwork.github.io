@@ -1,0 +1,32 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: black;
+}
+img{
+    position: fixed;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.desc{
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.welc{
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.discord{
+    text-decoration: none;
+    color: lightgreen;
+}
